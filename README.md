@@ -34,9 +34,10 @@ Screenshots
 | :-------------------: | :-----------------: | :------------------: |
 |  ![StartScreen][1]    | ![Gameplay][2]      | ![GameOver][3]       |
 
-[1]: app/screenshots/1.png
-[2]: app/screenshots/2.png
-[3]: app/screenshots/3.png
+[1]: Dots_Runner/app/screenshots/1.png
+[2]: Dots_Runner/app/screenshots/2.png
+[3]: Dots_Runner/app/screenshots/3.png
+
 
 ## 
 Installation
