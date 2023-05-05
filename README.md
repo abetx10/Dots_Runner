@@ -32,7 +32,7 @@ Screenshots
 
 |      StartScreen      |       Gameplay       |       GameOver       |
 | :-------------------: | :-----------------: | :------------------: |
-|  !\[StartScreen]\[1]    | !\[Gameplay]\[2]      | !\[GameOver]\[3]       |
+|  ![StartScreen][1]    | ![Gameplay][2]      | ![GameOver][3]       |
 
 [1]: app/screenshots/1.png
 [2]: app/screenshots/2.png
