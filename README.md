@@ -39,6 +39,11 @@ Screenshots
 [3]: app/screenshots/3.jpg
 
 
+## Demo Video
+
+[Watch the demo video on Vimeo](https://vimeo.com/824039449?share=copy)
+
+
 ## 
 Installation
 Clone the repository: git clone https://github.com/abetx10/Dots_Runner.git
