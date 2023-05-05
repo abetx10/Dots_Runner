@@ -34,9 +34,9 @@ Screenshots
 | :-------------------: | :-----------------: | :------------------: |
 |  ![StartScreen][1]    | ![Gameplay][2]      | ![GameOver][3]       |
 
-[1]: Dots_Runner/app/screenshots/1.jpg
-[2]: Dots_Runner/app/screenshots/2.jpg
-[3]: Dots_Runner/app/screenshots/3.jpg
+[1]: app/screenshots/1.jpg
+[2]: app/screenshots/2.jpg
+[3]: app/screenshots/3.jpg
 
 
 ## 
